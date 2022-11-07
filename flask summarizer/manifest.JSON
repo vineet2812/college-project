@@ -1,0 +1,25 @@
+{
+    "manifest_version":3,
+    "name":"Meetings-Made-Easy",
+    "version":"1.0",
+    "description":"A google meet supported chrome extension that summarizes the meeting for you",
+    "icons": {
+        "128": "summary.jpg" 
+    },
+    "background": {
+        "service_worker": "event.js"
+    },
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "content_scripts":[
+        {
+          "matches":["https://meet.google.com/*"],
+          "js":["jquery.min.js","content.js"]
+        }
+    ],
+      "permissions":[
+        "tabs","storage","notifications"
+    ]
+
+}
