@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.00c9fed4.css",
+    "main.js": "/static/js/main.d56d5c8b.js",
+    "static/js/236.868a8f10.chunk.js": "/static/js/236.868a8f10.chunk.js",
+    "static/js/703.13299b97.chunk.js": "/static/js/703.13299b97.chunk.js",
+    "static/js/467.b78decfb.chunk.js": "/static/js/467.b78decfb.chunk.js",
+    "static/media/atul.jpg": "/static/media/atul.86df5e6b76985d5f6c20.jpg",
+    "static/media/featureZoom.png": "/static/media/featureZoom.af0d85d1759eec3eabed.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/yashAgrawal.jpeg": "/static/media/yashAgrawal.aa42be2bc431f97c956b.jpeg",
+    "static/media/aboutImage3.png": "/static/media/aboutImage3.db78bf3b73b718a3fbe0.png",
+    "static/media/ayush.jpg": "/static/media/ayush.2eb34936b3cd91fcc523.jpg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/nptel.png": "/static/media/nptel.74e592f223863636b649.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/step4.png": "/static/media/step4.3367ea63e2d2e2fd785b.png",
+    "static/media/step1.png": "/static/media/step1.767ee7c65acc1b9d35eb.png",
+    "static/media/aboutImage.jpg": "/static/media/aboutImage.8f4cffccfdb700ad047d.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/step5.svg": "/static/media/step5.3d2a9410af76a75697174b668312dd36.svg",
+    "static/media/aboutImage2.jpg": "/static/media/aboutImage2.92d512dbceddf718ab69.jpg",
+    "static/media/featureImage2.svg": "/static/media/featureImage2.f69557d7c5a72566817765cc80b4f846.svg",
+    "static/media/intro-bg.jpg": "/static/media/intro-bg.6d1bf2ed7fef1250321f.jpg",
+    "static/media/Meet Digest.png": "/static/media/Meet Digest.e7ca11ff28c329d6278d.png",
+    "static/media/tejas.png": "/static/media/tejas.b3cd386e5042f861d74a.png",
+    "static/media/step3.svg": "/static/media/step3.7eb088df4904d8e7e8fcf07d86a0d0e6.svg",
+    "static/media/headerImage.svg": "/static/media/headerImage.8bbe07f36eac8bc7c9c54c8a94167d37.svg",
+    "static/media/yashtelkhade.jpg": "/static/media/yashtelkhade.105ef63592865698d353.jpg",
+    "static/media/step2.svg": "/static/media/step2.906c55f49ba379ef37a625313cd62445.svg",
+    "index.html": "/index.html",
+    "main.00c9fed4.css.map": "/static/css/main.00c9fed4.css.map",
+    "main.d56d5c8b.js.map": "/static/js/main.d56d5c8b.js.map",
+    "236.868a8f10.chunk.js.map": "/static/js/236.868a8f10.chunk.js.map",
+    "703.13299b97.chunk.js.map": "/static/js/703.13299b97.chunk.js.map",
+    "467.b78decfb.chunk.js.map": "/static/js/467.b78decfb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00c9fed4.css",
+    "static/js/main.d56d5c8b.js"
+  ]
+}
